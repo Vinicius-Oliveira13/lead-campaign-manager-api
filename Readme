@@ -35,7 +35,7 @@ src/
 ### 2️⃣ Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/lead-campaign-manager-api.git
+git clone https://github.com/Vinicius-Oliveira13/lead-campaign-manager-api.git
 
 # Acesse o diretório do projeto
 cd lead-campaign-manager-api
@@ -141,5 +141,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-💡 Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+💡 Feito com ❤️ por [Vinicius](https://github.com/Vinicius-Oliveira13)
 
